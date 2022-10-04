@@ -7,11 +7,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Debleng19+Jangan+Lupa+Follow)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Debleng19</h1>
+<h1 align="center">Hi 👋, I'm 𝙅𝙝𝙤𝙮𝙁𝙬𝙤𝙤𝙥𝙚𝙧𝘿𝙓</h1>
 
-<h3 align="center">Dari Indonesia</h3>
+<h3 align="center">Dari 𝙄𝙣𝙙𝙤𝙣𝙚𝙨𝙞𝙖</h3>
 </p>
-<h1 align="center">★ Memek ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
+<h1 align="center">★ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
 
 ![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
@@ -20,7 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
-<a href="https://twitter.com/mark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mark" height="30" width="40" /></a>
 <a href="https://fb.com/jhoy fwoofer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asepyusup21" height="30" width="40" /></a>
 <a href="https://instagram.com/debleng©" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asepyusup18" height="30" width="40" /></a>
 </p>

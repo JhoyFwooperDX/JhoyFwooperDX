@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm 𝙅𝙝𝙤𝙮𝙁𝙬𝙤𝙤𝙥𝙚𝙧𝘿𝙓</h1>
 
-<h3 align="center">Dari 𝙄𝙣𝙙𝙤𝙣𝙚𝙨𝙞𝙖</h3>
+<h3 align="center">From 𝘼𝙏𝙇𝘼𝙉𝙏𝙄𝙎</h3>
 </p>
 <h1 align="center">★ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
 

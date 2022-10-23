@@ -3,7 +3,7 @@ JhoyFwooper version 2.5
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Bakso+kontol+bakso+kontol)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=𝓑𝓐𝓒𝓞𝓣+𝓛𝓤+𝓢𝓔𝓜𝓤𝓐+𝓚𝓞𝓝𝓣𝓞𝓛)](https://git.io/typing-svg)
 
 
 </i></b></h3>

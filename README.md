@@ -28,7 +28,7 @@ JhoyFwooper version 2.5
 <p align="left">
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
 <a href="https://Jhoy Fwooper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Jhoy Fwooper" height="30" width="40" /></a>
-<a href="https://instagram.com/debleng©" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asepyusup18" height="30" width="40" /></a>
+<a href="https://instagram.com/JhoyFwooper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asepyusup18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,7 +38,7 @@ JhoyFwooper version 2.5
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6285860507339?text=Asalamualaikum+kak+Debleng+ganteng)[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=red&labelColor=white)](https://t.me/Debleng©)
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6285860507339?text=Asalamualaikum+kak+Debleng+ganteng)[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=red&labelColor=white)](https://t.me/JhoyFwooper)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markzuckerberg-kode&label=Profile%20views&color=0e75b6&style=flat" alt="markzuckerberg-kode" /> </p>
 
 

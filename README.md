@@ -1,3 +1,13 @@
+Lite version 1.0
+--------|
+![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Bakso+kontol+bakso+kontol)](https://git.io/typing-svg)
+
+<details>
+  <summary><b>Baca selengkapnya </b></summary>
+
 </i></b></h3>
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
